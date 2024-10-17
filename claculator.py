@@ -21,6 +21,7 @@ def header():
         print("2. subtract")
         print("3. multiply")
         print("4. divide")
+        print("5. exit")
         option = int(input("Select option:"))
 
     else:
