@@ -13,9 +13,8 @@ def divide(a,b):
 def header():
     global flag,total
     if flag:
-
-        a = int(input("Enter a number"))
-        b = int(input("Enter b number"))
+        a = int(input("Enter a number:-"))
+        b = int(input("Enter b number:-"))
         print("Select Calulator options:")
         print("1. Addition")
         print("2. subtract")

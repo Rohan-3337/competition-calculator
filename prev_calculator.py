@@ -10,8 +10,8 @@ def multiply(a,b):
 def divide(a,b):
     return a/b
 def header():
-    a = int(input("Enter a number"))
-    b = int(input("Enter b number"))
+    a = int(input("Enter a number:-"))
+    b = int(input("Enter b number:-"))
     print("Select Calulator options:")
     print("1. Addition")
     print("2. subtract")
